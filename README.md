@@ -27,7 +27,7 @@ A simple **Chat AI** application built with **Streamlit** that allows users to i
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/chat_ai.git
+git clone https://github.com/arijitmukherjee983/chat_ai.git
 cd chat_ai
 ```
 ### 2. Install dependencies
