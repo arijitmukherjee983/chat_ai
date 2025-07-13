@@ -5,14 +5,19 @@ A simple **Chat AI** application built with **Streamlit** that allows users to i
 ---
 
 ## 📁 Project Structure
-chat_ai/
+```
+📦 chat-ai/
+├── app.py #Streamlit frontend with chatbot code
+├── requirements.txt #Dependencies for deployment
+└── README.md #This file
+```
 
 ---
 
 ## 🚀 Features
 
 - AI chatbot interface
-- Enter your own API key
+- Enter your own API key (get from [here](https://aistudio.google.com/))
 - Clean Streamlit-based UI
 - Easy to run locally or deploy online
 
@@ -21,21 +26,21 @@ chat_ai/
 ## 🔧 Installation
 
 ### 1. Clone the repository
-
-
 ```bash
-# Clone the repo
 git clone https://github.com/yourusername/chat_ai.git
 cd chat_ai
-
-# Install dependencies
+```
+### 2. Install dependencies
+```bash
 pip install -r requirements.txt
-
-# Launch the app
+```
+### 2. Run locally
+```bash
 streamlit run app.py
+```
 
+---
 
+## 🔗 visit the live link(use your own api key)
 
-## visit the live link(use your own api key)
-
-https://chat-ai-user.streamlit.app/
+[https://chat-ai-user.streamlit.app/](https://chat-ai-user.streamlit.app/)
