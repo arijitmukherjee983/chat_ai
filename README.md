@@ -34,7 +34,7 @@ cd chat_ai
 ```bash
 pip install -r requirements.txt
 ```
-### 2. Run locally
+### 3. Run locally
 ```bash
 streamlit run app.py
 ```
